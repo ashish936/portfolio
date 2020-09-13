@@ -1,5 +1,5 @@
 //this is the new file 
-
+//this is the feattur -extra -plugin
 
 $(document).ready(function() {
 
