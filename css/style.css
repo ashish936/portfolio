@@ -196,7 +196,7 @@ background-color:#fff;
     color: gray;
     border: 1px solid gray;
     padding:10px 18px;
-    diplay:block;
+    display:block;
 
 }
 
@@ -250,4 +250,17 @@ background-color:#fff;
     margin: -20px auto 0 -47px;
     text-align:center;
     z-index: 3;
+}
+
+.items .icons i {
+    color: #fff;
+    font-size: 20px;
+    margin-top: 9px;
+}
+.item a {
+    width: 40px;
+    height: 40px;
+    background-color: #e74c3c;
+    position: relative;
+    display: inline-block;
 }
