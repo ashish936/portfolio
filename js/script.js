@@ -1,3 +1,6 @@
+//this is the new file 
+
+
 $(document).ready(function() {
 
     $('#slides').superslides({
